@@ -1,0 +1,138 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Timeline {
+  height: 150px;
+  width: 500;
+  position: fixed;
+  display: flex;
+  background-color: lightblue;
+}
+
+.Verticalline {
+  height: 150px;
+  width: 1px;
+  margin: 0px 35px;
+  background-color: gray;
+  z-index: -1;
+}
+
+.Verticalline2 {
+  height: 150px;
+  width: 1px;
+  margin: 0px 56px;
+  background-color: gray;
+  z-index: -1;
+}
+
+.Verticalline3 {
+  height: 150px;
+  width: 1px;
+  margin: 0px 47px;
+  background-color: gray;
+  z-index: -1;
+}
+
+.Verticalline4 {
+  height: 150px;
+  width: 1px;
+  margin: 0px 46px;
+  background-color: gray;
+  z-index: -1;
+}
+
+.Verticalline5 {
+  height: 150px;
+  width: 1px;
+  margin: 0px 48px;
+  background-color: gray;
+  z-index: -1;
+}
+
+.Btn {
+  height: 15px;
+  width: 15px;
+  margin: 70px 25px;
+  background-color: purple;
+  border: none;
+  border-radius: 50px;
+}
+
+.Btn2 {
+  height: 15px;
+  width: 15px;
+  margin: 70px 50px;
+  background-color: purple;
+  border: none;
+  border-radius: 50px;
+}
+
+.Btn3 {
+  height: 15px;
+  width: 15px;
+  margin: 70px 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 50px;
+}
+
+.Btn4 {
+  height: 15px;
+  width: 15px;
+  margin: 70px 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 50px;
+}
+
+.Btn5 {
+  height: 15px;
+  width: 15px;
+  margin: 70px 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 50px;
+}
+
+.Time {
+  text-align: left;
+  margin: 150px -67px;
+}
+
+.Box1 {
+  border: 0.5px solid #000000;
+  padding: 10px 0px;
+  width: 170px;
+  height: 150px;
+  margin: 170px 0px;
+}
+
+.Box2 {
+  border: 0.5px solid #000000;
+  padding: 0px 0px;
+  margin: 170px 40px;
+  width: 170px;
+}
+
+.Box3 {
+  border: 0.5px solid #000000;
+  padding: 0px 0px;
+  margin: 170px 142px;
+  width: 170px;
+}
+
+.Box4 {
+  border: 0.5px solid #000000;
+  padding: 0px 0px;
+  margin: 170px 233px;
+  width: 170px;
+}
+
+.Box5 {
+  border: 0.5px solid #000000;
+  padding: 0px 0px;
+  margin: 170px 292px;
+  width: 170px;
+}

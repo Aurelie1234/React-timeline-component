@@ -1,0 +1,69 @@
+[
+  {
+    "id1": 1,
+    "type1": "motion",
+    "startTime1": "637703442070000000",
+    "duration1": 2000,
+    "eventId1": "d2faf37d-6fb4-40b3-996c-1703044c724e"
+  },
+  {
+    "id2": 2,
+    "type2": "motion",
+    "startTime2": "637703442155040000",
+    "duration2": 5200,
+    "eventId2": "ced6f924-3f99-4819-a2a2-855c84130688",
+    "metadata2": null
+  },
+  {
+    "id3": 3,
+    "type3": "motion",
+    "startTime3": "637703442195000000",
+    "duration3": 1400,
+    "eventId3": "96045716-f424-475e-a557-320eb4960aa6",
+    "metadata3": {}
+  },
+  {
+    "id4": 4,
+    "type4": "object",
+    "startTime4": "637703442070000000",
+    "duration4": 1550,
+    "eventId4": "8e0c69e7-b2f0-457e-90da-3aa85e0afdd6",
+    "metadata4": {
+      "confidence4": 0.25,
+      "classification4": "person"
+    }
+  },
+  {
+    "id5": 5,
+    "type5": "object",
+    "startTime5": "637703442120000000",
+    "duration5": 7130,
+    "eventId5": "79dd2cb7-7ab9-4022-a461-5ff8c8d9236c",
+    "metadata5": {
+      "confidence5": 0.84,
+      "classification5": "car"
+    }
+  },
+  {
+    "id6": 6,
+    "type6": "object",
+    "startTime6": "637703442190000000",
+    "duration6": 1490,
+    "eventId6": "2299ff36-f3b5-4c9c-83c1-e0fd4ab88362",
+    "metadata6": {
+      "confidence6": 0.76,
+      "classification6": "person"
+    }
+  },
+  {
+    "id7": 7,
+    "type7": "object",
+    "startTime7": "637703442230160000",
+    "duration7": 3740,
+    "eventId7": "6c9a2b55-c969-4bbb-8637-858e85338570",
+    "metadata7": {
+      "confidence7": 0.7,
+      "classification7": "bicycle"
+    }
+  }
+]
